@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5WVEIIBOilGvnzfTcdkI7irNQUzy41Mrsl7hagGa8NLb6GdYGtD86QGIRdCthktmEDSMuwM0pgTSMW8ZkV9Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayso\\Source\\Repos\\QualityDevIUT\\Librairie\\Librairie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\jayso\source\repos\Librairie\Librairie\obj\Debug\net6.0\Librairie.csproj.AssemblyReference.cache
+C:\Users\jayso\source\repos\Librairie\Librairie\obj\Debug\net6.0\Librairie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\source\repos\Librairie\Librairie\obj\Debug\net6.0\Librairie.AssemblyInfoInputs.cache
+C:\Users\jayso\source\repos\Librairie\Librairie\obj\Debug\net6.0\Librairie.AssemblyInfo.cs
+C:\Users\jayso\source\repos\Librairie\Librairie\obj\Debug\net6.0\Librairie.csproj.CoreCompileInputs.cache
